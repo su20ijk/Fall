@@ -10,6 +10,7 @@ namespace Fall
         public static void Main(string[] args)
         {
             Console.WriteLine("Brookfield Central High School");
+            Console.WriteLine("skippin school like a senior");
             Console.ReadKey();
         }
     }
