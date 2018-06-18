@@ -11,6 +11,7 @@ namespace Fall
         {
             Console.WriteLine("Brookfield Central High School");
             Console.WriteLine("skippin school like a senior");
+            Console.WriteLine("UWM");
             Console.ReadKey();
         }
     }
